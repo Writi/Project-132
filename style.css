@@ -1,0 +1,33 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+padding: 10px;
+font-weight: bold;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+font-size: 23px;
+font-weight: 500;
+padding: 10px;
+border-radius: 15px;
+width: 400px;
+height: 150px;
+text-align: center;
+margin: auto;
+color: rgb(240, 238, 238);
+box-shadow: 10px 10px 10px grey;
+background: linear-gradient(
+    #155bcb
+    #0b2d63
+);
+font-family: sans-serif;
+
+}
